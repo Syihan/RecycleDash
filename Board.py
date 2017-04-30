@@ -28,7 +28,7 @@ NON_RECYCLABLE_IMAGE = "sprites/Food.png"
 # MECHANICS
 LEVEL = [
     "                                              WWWF        FFF   F       F W F 7  ",
-    "  0      4    5         6        F    GGGGGGG    F          W       W     W   7  ",
+    "  0      4    5         6       F     GGGGGGG    F          W       W     W   7  ",
     "  123             WWWWW                F W DD             W    GGG   W        7  ",
     "                 GGGG W          W GGGGGG  DLGGGGG     WW    GGRDLGG  W       7  ",
     "      GGG      GGRDDD W   FF   GGGGRDDD FWWWWW       GGGG   GRDDDDDLGGGGGGG   7  ",
